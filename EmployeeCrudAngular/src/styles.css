@@ -1,0 +1,53 @@
+/* You can add global styles to this file, and also import other style files */
+
+.toast {
+    border-radius: 5px;
+    max-width: 80vw;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #444444;
+    color: #FFF;
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    font-size: 90%;
+    z-index: 5100;
+
+    transform: translateY(calc(100% + 10px));
+    transition: transform 0.2s ease-in-out;
+}
+
+.toast.inview {
+    transform: translateY(0);
+}
+
+.text {
+    padding: 20px;
+    flex-basis: 100%;
+    margin-right: 10px;
+}
+
+button {
+    padding: 20px;
+    cursor: pointer;
+    font-weight: bold;
+    color: inherit;
+}
+
+.buttons {
+    display: flex;
+}
+
+.toast-error {
+    background-color: #BD362F;
+}
+
+.toast-info {
+    background-color: #2F96B4;
+}
+
+.toast-warning {
+    background-color: #F89406;
+}

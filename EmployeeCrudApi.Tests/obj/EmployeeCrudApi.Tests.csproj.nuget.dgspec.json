@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/caro/Documents/tp_ingsw3/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi.Tests/EmployeeCrudApi.Tests.csproj": {}
+    "/home/caro/Documents/tp_ingsw3/AngularWebApi/EmployeeCrudApi.Tests/EmployeeCrudApi.Tests.csproj": {}
   },
   "projects": {
-    "/home/caro/Documents/tp_ingsw3/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi.Tests/EmployeeCrudApi.Tests.csproj": {
+    "/home/caro/Documents/tp_ingsw3/AngularWebApi/EmployeeCrudApi.Tests/EmployeeCrudApi.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/caro/Documents/tp_ingsw3/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi.Tests/EmployeeCrudApi.Tests.csproj",
+        "projectUniqueName": "/home/caro/Documents/tp_ingsw3/AngularWebApi/EmployeeCrudApi.Tests/EmployeeCrudApi.Tests.csproj",
         "projectName": "EmployeeCrudApi.Tests",
-        "projectPath": "/home/caro/Documents/tp_ingsw3/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi.Tests/EmployeeCrudApi.Tests.csproj",
+        "projectPath": "/home/caro/Documents/tp_ingsw3/AngularWebApi/EmployeeCrudApi.Tests/EmployeeCrudApi.Tests.csproj",
         "packagesPath": "/home/caro/.nuget/packages/",
-        "outputPath": "/home/caro/Documents/tp_ingsw3/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi.Tests/obj/",
+        "outputPath": "/home/caro/Documents/tp_ingsw3/AngularWebApi/EmployeeCrudApi.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/caro/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/caro/Documents/tp_ingsw3/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi/EmployeeCrudApi/EmployeeCrudApi.csproj": {
-                "projectPath": "/home/caro/Documents/tp_ingsw3/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi/EmployeeCrudApi/EmployeeCrudApi.csproj"
+              "/home/caro/Documents/tp_ingsw3/AngularWebApi/EmployeeCrudApi/EmployeeCrudApi/EmployeeCrudApi.csproj": {
+                "projectPath": "/home/caro/Documents/tp_ingsw3/AngularWebApi/EmployeeCrudApi/EmployeeCrudApi/EmployeeCrudApi.csproj"
               }
             }
           }
@@ -60,7 +60,7 @@
             },
             "coverlet.collector": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[6.0.2, )"
             },
             "xunit": {
               "target": "Package",
@@ -91,14 +91,14 @@
         }
       }
     },
-    "/home/caro/Documents/tp_ingsw3/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi/EmployeeCrudApi/EmployeeCrudApi.csproj": {
+    "/home/caro/Documents/tp_ingsw3/AngularWebApi/EmployeeCrudApi/EmployeeCrudApi/EmployeeCrudApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/caro/Documents/tp_ingsw3/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi/EmployeeCrudApi/EmployeeCrudApi.csproj",
+        "projectUniqueName": "/home/caro/Documents/tp_ingsw3/AngularWebApi/EmployeeCrudApi/EmployeeCrudApi/EmployeeCrudApi.csproj",
         "projectName": "EmployeeCrudApi",
-        "projectPath": "/home/caro/Documents/tp_ingsw3/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi/EmployeeCrudApi/EmployeeCrudApi.csproj",
+        "projectPath": "/home/caro/Documents/tp_ingsw3/AngularWebApi/EmployeeCrudApi/EmployeeCrudApi/EmployeeCrudApi.csproj",
         "packagesPath": "/home/caro/.nuget/packages/",
-        "outputPath": "/home/caro/Documents/tp_ingsw3/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi/EmployeeCrudApi/obj/",
+        "outputPath": "/home/caro/Documents/tp_ingsw3/AngularWebApi/EmployeeCrudApi/EmployeeCrudApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/caro/.nuget/NuGet/NuGet.Config"

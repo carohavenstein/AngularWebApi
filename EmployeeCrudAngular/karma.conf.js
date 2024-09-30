@@ -13,6 +13,16 @@ module.exports = function (config) {
         outputFile: 'test-results.xml',
         useBrowserName: false
       },
+      coverageReporter: {
+        type: 'lcov',
+        dir: require('path').join(__dirname, './coverage'),
+        subdir: '.',
+        file: 'lcov.info'
+      },
+      preprocessors: {
+        // Añade los archivos que deseas instrumentar para la cobertura
+        'src/**/*.ts': ['coverage'], // Asegúrate de instrumentar los archivos de tu aplicación
+      },
       port: 9876,
       colors: true,
       logLevel: config.LOG_INFO,

@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "PHIvxHUQbDJhBYAKMCmsawFRpuuO/9WwSfH9G6PqDX0P54mZj9FzQWSKo6vaJu96GOEJG8diA+yn4w2L8qCfuQ==",
+  "dgSpecHash": "HaQ6VQ1NF7Y3hG19Fow8/QBcZbmFvsSnZHFwfn4ykp2W/kPVUBRe49QNv1xIgYNFVTIOrrGFnhdu+qHGL9lRGg==",
   "success": true,
-  "projectFilePath": "/home/caro/Documents/tp_ingsw3/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi.Tests/EmployeeCrudApi.Tests.csproj",
+  "projectFilePath": "/home/caro/Documents/tp_ingsw3/AngularWebApi/EmployeeCrudApi.Tests/EmployeeCrudApi.Tests.csproj",
   "expectedPackageFiles": [
     "/home/caro/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/home/caro/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",
     "/home/caro/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
-    "/home/caro/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
+    "/home/caro/.nuget/packages/coverlet.collector/6.0.2/coverlet.collector.6.0.2.nupkg.sha512",
     "/home/caro/.nuget/packages/microsoft.aspnetcore.authentication.abstractions/2.2.0/microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "/home/caro/.nuget/packages/microsoft.aspnetcore.authentication.core/2.2.0/microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
     "/home/caro/.nuget/packages/microsoft.aspnetcore.authorization/2.2.0/microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",

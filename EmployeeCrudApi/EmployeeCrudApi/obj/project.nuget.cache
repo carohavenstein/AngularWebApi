@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P4cgSZPitCG88axwUlF6f5tyu+Wb9tUEZRLEBwX2OHKKDBZBhgzzzTL+G/N6jkPO/W5N0wodxBbabGkSEPPAmA==",
+  "dgSpecHash": "McGZlC9J18KCdEAEAl3euOUbpjyDMWDKQc1d9ZZ8278+auADAGYou+E58UrLwv4DYjgcJ0U0wVFEMafa8Lp5EA==",
   "success": true,
-  "projectFilePath": "/home/caro/Documents/tp_ingsw3/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi/EmployeeCrudApi/EmployeeCrudApi.csproj",
+  "projectFilePath": "/home/caro/Documents/tp_ingsw3/AngularWebApi/EmployeeCrudApi/EmployeeCrudApi/EmployeeCrudApi.csproj",
   "expectedPackageFiles": [
     "/home/caro/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/home/caro/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",
